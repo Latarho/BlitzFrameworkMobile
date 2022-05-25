@@ -54,7 +54,7 @@ gradle clean test DdeviceHost=real
 ```
 gradle clean test DdeviceHost=browserstack
 ```
-## <img src="image/logo/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/C11-eisritter-unit13-homework/allure">Allure report</a>
+## <img src="image/logo/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/011-Latarho-qa-guru-BlitzFrameworkMobile/allure/#">Allure report</a>
 
 ### :lady_beetle: Основное окно
 
