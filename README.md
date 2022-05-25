@@ -31,7 +31,7 @@
 - Проверка стартовых экранов и поиска в приложении
 
 ## <img src="image/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в Jenkins
-<a target="_blank" href="https://jenkins.autotests.cloud/job/C11-eisritter-mobile/">Jenkins job</a>
+<a target="_blank" href="https://jenkins.autotests.cloud/job/011-Latarho-qa-guru-BlitzFrameworkMobile/">Jenkins job</a>
 <p align="center">
 <a href="https://jenkins.autotests.cloud/job/C11-eisritter-unit13-homework/"><img src="image/screenshots/jenkins-dashboard.png" alt="Jenkins"/></a>
 </p>
